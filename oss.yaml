@@ -1,0 +1,4 @@
+- name: Redis Operator
+  link: https://github.com/spotahome/redis-operator
+  description: Redis Operator creates/configures/manages redis-failovers atop Kubernetes.
+  licence: Apache License 2.0

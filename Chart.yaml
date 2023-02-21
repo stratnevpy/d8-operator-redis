@@ -1,0 +1,6 @@
+name: operator-redis
+version: 1.0.0
+dependencies:
+  - name: deckhouse_lib_helm
+    version: 0.0.15
+    repository: https://deckhouse.github.io/lib-helm
